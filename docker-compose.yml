@@ -1,0 +1,13 @@
+version: "3.9"
+
+services:
+  churn-api:
+    build: .
+    image: churn-api:latest
+    container_name: churn-api-compose
+    ports:
+      - "8000:8000"
+    environment:
+      LOG_LEVEL: info
+    volumes:
+      - ./logs:/app/logs
