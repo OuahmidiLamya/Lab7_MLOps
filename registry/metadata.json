@@ -1,0 +1,150 @@
+[
+  {
+    "model_file": "churn_model_v1_20251213_122250.joblib",
+    "version": "v1",
+    "trained_at_utc": "20251213_122250",
+    "data_file": "processed.csv",
+    "seed": 42,
+    "metrics": {
+      "accuracy": 0.6433333333333333,
+      "precision": 0.6687898089171974,
+      "recall": 0.65625,
+      "f1": 0.6624605678233437,
+      "baseline_f1": 0.0
+    },
+    "gate_f1": 0.7,
+    "passed_gate": false
+  },
+  {
+    "model_file": "churn_model_v1_20251213_122822.joblib",
+    "version": "v1",
+    "trained_at_utc": "20251213_122822",
+    "data_file": "processed.csv",
+    "seed": 42,
+    "metrics": {
+      "accuracy": 0.6433333333333333,
+      "precision": 0.6687898089171974,
+      "recall": 0.65625,
+      "f1": 0.6624605678233437,
+      "baseline_f1": 0.0
+    },
+    "gate_f1": 0.65,
+    "passed_gate": true
+  },
+  {
+    "model_file": "churn_model_v1_20251213_123247.joblib",
+    "version": "v1",
+    "trained_at_utc": "20251213_123247",
+    "data_file": "processed.csv",
+    "seed": 42,
+    "metrics": {
+      "accuracy": 0.6433333333333333,
+      "precision": 0.6687898089171974,
+      "recall": 0.65625,
+      "f1_threshold_05": 0.6624605678233437,
+      "f1": 0.7164179104477612,
+      "best_threshold": 0.36,
+      "baseline_f1": 0.0
+    },
+    "gate_f1": 0.7,
+    "passed_gate": true
+  },
+  {
+    "model_file": "churn_model_v2_20251213_134638.joblib",
+    "version": "v2",
+    "trained_at_utc": "20251213_134638",
+    "data_file": "processed.csv",
+    "seed": 42,
+    "metrics": {
+      "accuracy": 0.6433333333333333,
+      "precision": 0.6687898089171974,
+      "recall": 0.65625,
+      "f1": 0.6624605678233437,
+      "baseline_f1": 0.0
+    },
+    "gate_f1": 0.65,
+    "passed_gate": true
+  },
+  {
+    "model_file": "churn_model_v1_20251227_114738.joblib",
+    "version": "v1",
+    "trained_at_utc": "20251227_114738",
+    "data_file": "processed.csv",
+    "seed": 42,
+    "metrics": {
+      "accuracy": 0.6433333333333333,
+      "precision": 0.6687898089171974,
+      "recall": 0.65625,
+      "f1": 0.6624605678233437,
+      "baseline_f1": 0.0
+    },
+    "gate_f1": 0.6,
+    "passed_gate": true
+  },
+  {
+    "model_file": "churn_model_v1_20251227_114741.joblib",
+    "version": "v1",
+    "trained_at_utc": "20251227_114741",
+    "data_file": "processed.csv",
+    "seed": 42,
+    "metrics": {
+      "accuracy": 0.6433333333333333,
+      "precision": 0.6687898089171974,
+      "recall": 0.65625,
+      "f1_threshold_05": 0.6624605678233437,
+      "f1": 0.7164179104477612,
+      "best_threshold": 0.36,
+      "baseline_f1": 0.0
+    },
+    "gate_f1": 0.6,
+    "passed_gate": true
+  },
+  {
+    "model_file": "churn_model_v1_20260113_001458.joblib",
+    "version": "v1",
+    "trained_at_utc": "20260113_001458",
+    "data_file": "processed.csv",
+    "seed": 42,
+    "metrics": {
+      "accuracy": 0.6433333333333333,
+      "precision": 0.6687898089171974,
+      "recall": 0.65625,
+      "f1": 0.6624605678233438,
+      "baseline_f1": 0.0
+    },
+    "gate_f1": 0.6,
+    "passed_gate": true
+  },
+  {
+    "model_file": "churn_model_v1_20260113_003306.joblib",
+    "version": "v1",
+    "trained_at_utc": "20260113_003306",
+    "data_file": "processed.csv",
+    "seed": 42,
+    "metrics": {
+      "accuracy": 0.6433333333333333,
+      "precision": 0.6687898089171974,
+      "recall": 0.65625,
+      "f1": 0.6624605678233438,
+      "baseline_f1": 0.0
+    },
+    "gate_f1": 0.6,
+    "passed_gate": true
+  },
+  {
+    "model_file": "churn_model_v1_20260113_004044.joblib",
+    "version": "v1",
+    "trained_at_utc": "20260113_004044",
+    "data_file": "processed.csv",
+    "seed": 42,
+    "metrics": {
+      "accuracy": 0.6433333333333333,
+      "precision": 0.6687898089171974,
+      "recall": 0.65625,
+      "f1": 0.6624605678233438,
+      "baseline_f1": 0.0
+    },
+    "gate_f1": 0.6,
+    "passed_gate": true
+  }
+]
