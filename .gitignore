@@ -5,3 +5,8 @@ logs/
 models/
 
 /models
+mlflow/
+mlruns/
+artifacts/
+dvc_storage/
+*.tar
